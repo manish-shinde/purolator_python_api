@@ -6,3 +6,11 @@ I have covered only basic services for small shipments.
 Can not add whole code due to various reasons.
 feel free to add other scripts.
 will add frieght services code if found in my system.
+contains-
+getservicerules
+getestimate
+createshipment
+getdocument
+locatorservice
+pickupservice
+trackingservice
